@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+    box-shadow: 0;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+}
+
+#clickme{
+    padding-top: 50rem;
+    text-align: center;
+    height: 100vh;
+    border-color: red;
+    color: black;
+    font-weight: bolder;
+    font-size: 1.5rem;
+}
+.king{
+    height: 100vh;
+    background-color: antiquewhite;
+    width: 100%;
+}
